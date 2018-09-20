@@ -1,0 +1,18 @@
+{
+    "default user name": "Ktoś",
+    "email sharing subject": "%{displayName} udostępnia Ci \"%{name}\"",
+    "email change subject": "%{displayName} Cozy: folder \"%{itemName}\" został zmieniony",
+    "notification new file": "%{who} przekazał plik %{fileName} do folderu %{folderName}",
+    "file": "plik",
+    "folder": "folder",
+    "view file": "Przeglądaj plik",
+    "view folder": "Przeglądaj folder",
+    "link file content": "Kliknij tutaj aby przeglądać ten plik",
+    "link folder content": "Kliknij tutaj aby przeglądać ten folder",
+    "404 headline": "Ups, nie można znaleźć tego pliku.",
+    "404 option a": "Błędnie wprowadzony adres URL",
+    "404 option separator": "lub",
+    "404 option b": "Własciciel Cozy mógł usunąc powiązany plik",
+    "404 clippy sorry": "Niestety, nie można znaleźć pliku, którego szukasz",
+    "404 clippy contact": "Pomocny może okazać się kontakt z właścicielem Cozy!"
+}

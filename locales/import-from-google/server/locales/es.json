@@ -1,0 +1,5 @@
+{
+    "notif_import_contact": "Proceder a importar %{total} contactos",
+    "notif_import_photo": "Proceder a importar %{total} fotos",
+    "notif_import_event": "Proceder a importar %{total} eventos"
+}

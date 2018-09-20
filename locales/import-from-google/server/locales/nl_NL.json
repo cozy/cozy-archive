@@ -1,0 +1,5 @@
+{
+    "notif_import_contact": "%{total} contactpersonen geïmporteerd",
+    "notif_import_photo": "%{total} foto's geïmporteerd",
+    "notif_import_event": "%{total} gebeurtenissen geïmporteerd"
+}

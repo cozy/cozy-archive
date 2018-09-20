@@ -1,0 +1,5 @@
+{
+    "notif_import_contact": "%{total} の連絡先のインポートが完了しました",
+    "notif_import_photo": "%{total} のフォトのインポートが完了しました",
+    "notif_import_event": "%{total} のイベントのインポートが完了しました"
+}

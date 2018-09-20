@@ -1,0 +1,18 @@
+{
+    "default user name": "Iemand",
+    "email sharing subject": "%{displayName} deelt \"%{name}\" met jou",
+    "email change subject": "%{displayName}'s Cozy: map \"%{itemName}\" veranderd",
+    "notification new file": "%{who} heeft bestand %{fileName} geüpload naar %{folderName}",
+    "file": "bestand",
+    "folder": "map",
+    "view file": "Bekijk bestand",
+    "view folder": "Bekijk map",
+    "link file content": "Klik hier on dit bestand te bekijken",
+    "link folder content": "Klik hier om deze map te bekijken",
+    "404 headline": "Oei, it bestand kan niet worden gevonden.",
+    "404 option a": "Je heft het URL adres verkeerd getypt",
+    "404 option separator": "of",
+    "404 option b": "De eigenaar van de Cozy kan het gerelateerde bestand verwijderd hebben",
+    "404 clippy sorry": "Sorry, ik kan het bestand waar je naar zoekt niet vinden",
+    "404 clippy contact": "Je zou contact op kunnen nemen met de eigenaar van de Cozy!"
+}

@@ -1,0 +1,5 @@
+{
+    "default user name": "某人",
+    "email sharing subject": "%{displayName} 分享了相册 \"%{name}\" 给你",
+    "file": "相册"
+}

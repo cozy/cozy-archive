@@ -1,0 +1,5 @@
+{
+    "default user name": "Iemand",
+    "email sharing subject": "%{displayName} deelt het foto album \"%{name}\" met jou",
+    "file": "album"
+}

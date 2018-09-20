@@ -1,0 +1,5 @@
+{
+    "notif_import_contact": "完成导入 %{total} 名联系人",
+    "notif_import_photo": "完成导入 %{total} 张照片",
+    "notif_import_event": "完成导入 %{total} 项事件"
+}

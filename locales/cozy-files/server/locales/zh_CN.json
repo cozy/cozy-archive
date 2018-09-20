@@ -1,0 +1,18 @@
+{
+    "default user name": "某人",
+    "email sharing subject": "%{displayName} 分享了 \"%{name}\" 给你",
+    "email change subject": "%{displayName} 的 Cozy: 文件夹 \"%{itemName}\" 已更改",
+    "notification new file": "%{who} 上传了文件 %{fileName} 至 %{folderName}",
+    "file": "文件",
+    "folder": "文件夹",
+    "view file": "查看文件",
+    "view folder": "浏览文件夹",
+    "link file content": "点击这里查看文件",
+    "link folder content": "点击这里浏览文件夹",
+    "404 headline": "文件未找到",
+    "404 option a": "你输入了错误的 URL 地址",
+    "404 option separator": "或",
+    "404 option b": "此 Cozy 的所有者可能删除了相关文件",
+    "404 clippy sorry": "抱歉，未能找到你想要的文件",
+    "404 clippy contact": "你也许需要联系此 Cozy 的所有者"
+}

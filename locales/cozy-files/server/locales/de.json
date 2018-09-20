@@ -1,0 +1,18 @@
+{
+    "default user name": "Jemand",
+    "email sharing subject": "%{displayName} hat \"%{name}\" mit dir geteilt",
+    "email change subject": "%{displayName}'s Cozy: Ordner \"%{itemName}\" geändert",
+    "notification new file": "%{who} hat die Datei %{fileName} in %{folderName} hochgeladen",
+    "file": "Datei",
+    "folder": "Ordner",
+    "view file": "Datei ansehen",
+    "view folder": "Ordner ansehen",
+    "link file content": "Klicken Sie hier um die Datei zu anzusehen",
+    "link folder content": "Klicken Sie hier um den Ordner anzusehen",
+    "404 headline": "Oops! Die Datei konnte nicht gefunden werden.",
+    "404 option a": "Die eingegebene URL war fehlerhaft.",
+    "404 option separator": "oder",
+    "404 option b": "Der Cozy-Besitzer hat die Datei möglicherweise gelöscht",
+    "404 clippy sorry": "Sorry, ich konnte deine gesuchte Datei leider nicht finden",
+    "404 clippy contact": "Möglicherweise solltest du den Cozy-Besitzer kontaktieren."
+}

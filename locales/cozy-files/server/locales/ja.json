@@ -1,0 +1,18 @@
+{
+    "default user name": "誰か",
+    "email sharing subject": "%{displayName} が \"%{name}\" をあなたと共有しました",
+    "email change subject": "%{displayName} の Cozy: フォルダー \"%{itemName}\" が変更されました",
+    "notification new file": "%{who} がファイル %{fileName} を %{folderName} にアップロードしました",
+    "file": "ファイル",
+    "folder": "フォルダー",
+    "view file": "ファイルを表示",
+    "view folder": "フォルダーを参照",
+    "link file content": "ここをクリックすると、このファイルを表示します",
+    "link folder content": "ここをクリックすると、このフォルダーを参照します",
+    "404 headline": "このファイルが見つかりません。",
+    "404 option a": "URL アドレスの入力を間違えた",
+    "404 option separator": "または",
+    "404 option b": "Cozy の所有者が関連するファイルを削除した可能性があります",
+    "404 clippy sorry": "検索しているファイルを見つけることができません",
+    "404 clippy contact": "Cozy の所有者に連絡してください!"
+}

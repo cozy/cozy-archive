@@ -1,0 +1,5 @@
+{
+    "notif_import_contact": "Импорт %{total} контактов выполнен",
+    "notif_import_photo": "Загрузка %{total} фотографий завершена",
+    "notif_import_event": "Загрузка %{total} событий завершена"
+}

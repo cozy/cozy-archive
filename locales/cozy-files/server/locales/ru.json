@@ -1,0 +1,18 @@
+{
+    "default user name": "Кто-то",
+    "email sharing subject": "%{displayName} поделился \"%{name}\" с вами",
+    "email change subject": "%{displayName}'s Cozy: папка \"%{itemName}\" изменена",
+    "notification new file": "%{who} загрузил файл %{fileName} в %{folderName}",
+    "file": "файл",
+    "folder": "папка",
+    "view file": "Просмотр",
+    "view folder": "Обзор папки",
+    "link file content": "Нажмите здесь, чтобы открыть файл",
+    "link folder content": "Нажмите здесь, чтобы просмотреть эту папку",
+    "404 headline": "Упс, этот файл не найден.",
+    "404 option a": "Вы ошиблись при вводе URL-адреса",
+    "404 option separator": "или",
+    "404 option b": "Владелец Cozy мог удалить затронутый файл",
+    "404 clippy sorry": "К сожалению, я не смог найти файл, который вы ищете",
+    "404 clippy contact": "Вы можете связаться с владельцем Cozy!"
+}

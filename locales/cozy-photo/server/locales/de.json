@@ -1,0 +1,5 @@
+{
+    "default user name": "Jemand",
+    "email sharing subject": "%{displayName} teilt das Fotoalbum \"%{name}\" mit Ihnen",
+    "file": "Album"
+}

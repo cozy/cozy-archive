@@ -1,0 +1,18 @@
+{
+    "default user name": "Alguien",
+    "email sharing subject": "%{displayName} compartido \"%{name}\" con usted",
+    "email change subject": "%{displayName}'s Cozy: carpeta \"%{itemName}\" cambiada",
+    "notification new file": "%{who} archivo telecargado %{fileName} en %{folderName}",
+    "file": "archivo",
+    "folder": "carpeta",
+    "view file": "Ver archivo",
+    "view folder": "Examine la carpeta",
+    "link file content": "Hacer click aqui para ver este archivo",
+    "link folder content": "Haga clic aquí para examinar esta carpeta",
+    "404 headline": "Upa, no se ha encontrado este archivo",
+    "404 option a": "Ustad ha escrito mal la dirección URL",
+    "404 option separator": "o",
+    "404 option b": "El propietario de Cozy quizás borró el archivo en cuestión",
+    "404 clippy sorry": "Lo siento, no puedo encontrar el archivo que está buscando",
+    "404 clippy contact": "Usted debe contactar al propietario de Cozy!"
+}
